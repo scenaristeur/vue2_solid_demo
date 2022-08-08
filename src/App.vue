@@ -6,6 +6,8 @@
     </nav>
     <InputText />
     <InputTextarea />
+    <SolidLogin clientName="Vue2Solid_Demo" />
+
     <router-view/>
   </div>
 </template>
