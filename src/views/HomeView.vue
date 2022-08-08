@@ -1,13 +1,17 @@
 <template>
   <div class="home">
-Vue2Solid Demo
+    Vue2Solid Demo
     <b-container>
       <a href="https://github.com/scenaristeur/vue2_solid" target="_blank">vue2_solid</a> |
       <a href="https://github.com/scenaristeur/vue2_solid_demo" target="_blank">code source demo</a> |  v.1.0.2
       <hr>
       SolidLogin :     <SolidLogin clientName="Vue2Solid_Demo" />
+      <hr>
+      <!-- SolidBrowser : <SolidBrowser />
+      <hr> -->
+      SolidProfile : <SolidProfile />
 
-      SolidBrowser : <SolidBrowser />
+      <hr>
     </b-container>
 
     <!-- <img alt="Vue logo" src="../assets/logo.png">

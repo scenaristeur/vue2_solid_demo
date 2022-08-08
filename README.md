@@ -6,7 +6,7 @@
 
 [demo](https://scenaristeur.github.io/vue2_solid_demo)
 
-[doc](https://github.com/scenaristeur/vue2_solid)
+[doc](https://scenaristeur.github.io/vue2_solid)
 
 
 # Usage
