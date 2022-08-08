@@ -4,11 +4,14 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </nav>
+    <a href="https://github.com/scenaristeur/vue2_solid" target="_blank">vue2_solid</a> |
+    <a href="https://github.com/scenaristeur/vue2_solid_demo" target="_blank">code source demo</a> |  v.1.0.2
     <InputText />
     <InputTextarea />
     <SolidLogin clientName="Vue2Solid_Demo" />
 
     <router-view/>
+
   </div>
 </template>
 
