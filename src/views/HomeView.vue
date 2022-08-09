@@ -3,7 +3,7 @@
     Vue2Solid Demo
     <b-container>
       <a href="https://github.com/scenaristeur/vue2_solid" target="_blank">vue2_solid</a> |
-      <a href="https://github.com/scenaristeur/vue2_solid_demo" target="_blank">code source demo</a> |  v.1.0.2
+      <a href="https://github.com/scenaristeur/vue2_solid_demo" target="_blank">code source demo</a> |  v.1.0.8
       <hr>
       SolidLogin :     <SolidLogin clientName="Vue2Solid_Demo" />
       <hr>
@@ -12,6 +12,10 @@
       SolidProfile : <SolidProfile />
 
       <hr>
+      SolidExplorer : <SolidExplorer />
+      <hr>
+      SolidEditor : <SolidEditor />
+      <br><br><br>
     </b-container>
 
     <!-- <img alt="Vue logo" src="../assets/logo.png">

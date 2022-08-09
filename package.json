@@ -10,7 +10,7 @@
     "postgit": "git push && git subtree push --prefix dist origin gh-pages"
   },
   "dependencies": {
-    "@smag0/vue2_solid": "^1.0.6",
+    "@smag0/vue2_solid": "^1.0.8",
     "core-js": "^3.8.3",
     "register-service-worker": "^1.7.2",
     "vue": "^2.6.14",
