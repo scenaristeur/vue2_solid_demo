@@ -3,7 +3,7 @@
     Vue2Solid Demo
     <b-container>
       <a href="https://github.com/scenaristeur/vue2_solid" target="_blank">vue2_solid</a> |
-      <a href="https://github.com/scenaristeur/vue2_solid_demo" target="_blank">code source demo</a> |  v.1.0.10 | add tension
+      <a href="https://github.com/scenaristeur/vue2_solid_demo" target="_blank">code source demo</a> |  v.1.0.11 | tags wikidata
       <hr>
       SolidLogin :     <SolidLogin clientName="Vue2Solid_Demo" />
       <hr>
